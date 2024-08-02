@@ -1,0 +1,155 @@
+Bacterium,Genome_Size,Genes,Transcription_Factors,Proteins,Genus,Family,GC
+Escherichia coli K-12,4.6,4400,314,4290,Escherichia,Enterobacteriaceae,50.8
+Streptomyces coelicolor A3(2),8.7,7800,965,7825,Streptomyces,Streptomycetaceae,72.1
+Bacillus subtilis 168,4.2,4100,158,4103,Bacillus,Bacillaceae,43.5
+Pseudomonas aeruginosa PAO1,6.3,5500,505,5570,Pseudomonas,Pseudomonadaceae,66.6
+Mycobacterium tuberculosis H37Rv,4.4,4000,189,4000,Mycobacterium,Mycobacteriaceae,65.6
+Staphylococcus aureus N315,2.8,2600,193,2600,Staphylococcus,Staphylococcaceae,32.8
+Helicobacter pylori 26695,1.7,1600,114,1550,Helicobacter,Helicobacteraceae,39.0
+Bacteroides fragilis YCH46,5.2,4800,341,4800,Bacteroides,Bacteroidaceae,43.4
+Vibrio cholerae N16961,4.0,3900,233,3890,Vibrio,Vibrionaceae,47.7
+Chlamydia trachomatis D/UW-3/CX,1.04,900,20,900,Chlamydia,Chlamydiaceae,41.3
+Salmonella enterica Typhimurium LT2,4.9,4600,307,4600,Salmonella,Enterobacteriaceae,52.2
+Clostridium difficile R20291,4.3,4000,229,4032,Clostridium,Clostridiaceae,29.2
+Lactobacillus plantarum WCFS1,3.3,3100,180,3096,Lactobacillus,Lactobacillaceae,44.5
+Borrelia burgdorferi B31,1.5,1400,56,1395,Borrelia,Spirochaetaceae,28.6
+Corynebacterium glutamicum ATCC 13032,3.3,3100,146,3097,Corynebacterium,Corynebacteriaceae,53.9
+Neisseria meningitidis MC58,2.2,2100,87,2063,Neisseria,Neisseriaceae,51.5
+Rhodobacter sphaeroides 2.4.1,4.6,4200,175,4193,Rhodobacter,Rhodobacteraceae,68.8
+Listeria monocytogenes EGD-e,3.0,2900,122,2895,Listeria,Listeriaceae,38.0
+Acinetobacter baumannii ATCC 17978,3.9,3600,195,3601,Acinetobacter,Moraxellaceae,39.0
+Campylobacter jejuni NCTC 11168,1.6,1600,72,1623,Campylobacter,Campylobacteraceae,30.6
+Ralstonia solanacearum GMI1000,5.8,5400,428,5385,Ralstonia,Burkholderiaceae,67.0
+Xanthomonas campestris ATCC 33913,5.2,4900,340,4901,Xanthomonas,Xanthomonadaceae,65.0
+Bartonella henselae Houston-1,1.9,1800,48,1754,Bartonella,Bartonellaceae,39.0
+Legionella pneumophila Paris,3.4,3000,184,2969,Legionella,Legionellaceae,38.4
+Yersinia pestis CO92,4.6,4200,282,4201,Yersinia,Enterobacteriaceae,47.6
+Brucella abortus 2308,3.3,3200,110,3214,Brucella,Brucellaceae,57.0
+Bordetella pertussis Tohama I,4.1,3800,203,3861,Bordetella,Alcaligenaceae,67.0
+Treponema pallidum Nichols,1.1,1000,25,1010,Treponema,Spirochaetaceae,52.8
+Chlamydia pneumoniae CWL029,1.2,1100,19,1112,Chlamydia,Chlamydiaceae,42.1
+Synechocystis PCC 6803,3.6,3400,247,3381,Synechocystis,Synechococcaceae,47.7
+Nostoc punctiforme PCC 73102,9.0,8100,590,8023,Nostoc,Nostocaceae,41.5
+Rhizobium leguminosarum bv. viciae 3841,7.4,7000,420,7055,Rhizobium,Rhizobiaceae,60.5
+Sinorhizobium meliloti 1021,6.7,6300,359,6321,Sinorhizobium,Rhizobiaceae,62.6
+Bacillus anthracis Ames,5.2,5400,314,5385,Bacillus,Bacillaceae,35.0
+Thermus thermophilus HB8,2.1,2000,113,1978,Thermus,Thermaceae,69.4
+Nitrosomonas europaea ATCC 19718,2.8,2600,189,2633,Nitrosomonas,Nitrosomonadaceae,50.6
+Rickettsia prowazekii Madrid E,1.1,1000,22,1016,Rickettsia,Rickettsiaceae,29.0
+Anabaena PCC 7120,6.4,5700,381,5687,Anabaena,Nostocaceae,41.2
+Gloeobacter violaceus PCC 7421,4.7,4400,270,4412,Gloeobacter,Gloeobacteraceae,56.0
+Deinococcus radiodurans R1,3.3,3100,237,3142,Deinococcus,Deinococcaceae,66.6
+Aquifex aeolicus VF5,1.6,1500,80,1522,Aquifex,Aquificaceae,43.0
+Thermotoga maritima MSB8,1.9,1800,97,1848,Thermotoga,Thermotogaceae,46.2
+Prochlorococcus marinus MED4,1.7,1600,45,1603,Prochlorococcus,Prochlorococcaceae,30.8
+Synechococcus elongatus PCC 7942,2.7,2500,178,2485,Synechococcus,Synechococcaceae,55.4
+Caulobacter crescentus NA1000,4.0,3800,283,3764,Caulobacter,Caulobacteraceae,67.2
+Methylobacterium extorquens AM1,5.7,5400,319,5381,Methylobacterium,Methylobacteriaceae,68.5
+Bradyrhizobium japonicum USDA 110,9.1,8300,621,8213,Bradyrhizobium,Bradyrhizobiaceae,64.1
+Nitrobacter hamburgensis X14,4.0,3900,209,3912,Nitrobacter,Nitrobacteraceae,61.5
+Paracoccus denitrificans PD1222,4.8,4600,231,4551,Paracoccus,Rhodobacteraceae,66.0
+Chromohalobacter salexigens DSM 3043,4.3,4200,261,4192,Chromohalobacter,Halomonadaceae,64.8
+Azospirillum brasilense Sp245,7.2,7000,445,7065,Azospirillum,Rhodospirillaceae,69.1
+Burkholderia thailandensis E264,6.9,6500,477,6558,Burkholderia,Burkholderiaceae,67.5
+Ralstonia pickettii 12J,4.9,4700,389,4732,Ralstonia,Burkholderiaceae,67.9
+Leptospira interrogans Lai,4.6,4300,290,4283,Leptospira,Leptospiraceae,35.0
+Francisella tularensis Schu S4,1.9,1800,37,1844,Francisella,Francisellaceae,33.1
+Lactococcus lactis IL1403,2.4,2300,103,2293
+Lactococcus lactis IL1403,2.4,2300,103,2293,Lactococcus,Streptococcaceae,35.3
+Shewanella oneidensis MR-1,5.1,4700,352,4685,Shewanella,Shewanellaceae,49.5
+Geobacter sulfurreducens PCA,3.8,3600,279,3601,Geobacter,Geobacteraceae,61.0
+Desulfovibrio vulgaris Hildenborough,3.6,3400,195,3387,Desulfovibrio,Desulfovibrionaceae,58.0
+Clostridium acetobutylicum ATCC 824,3.9,3600,236,3601,Clostridium,Clostridiaceae,30.5
+Bacteroides thetaiotaomicron VPI-5482,6.3,5500,372,5517,Bacteroides,Bacteroidaceae,41.5
+Prevotella bryantii B14,5.6,5200,335,5212,Prevotella,Prevotellaceae,48.7
+Tannerella forsythia ATCC 43037,2.8,2600,171,2596,Tannerella,Tannerellaceae,48.0
+Helicobacter hepaticus ATCC 51449,1.8,1700,108,1710,Helicobacter,Helicobacteraceae,38.8
+Mycoplasma pneumoniae M129,0.8,690,5,689,Mycoplasma,Mycoplasmataceae,40.0
+Ureaplasma parvum serovar 3 ATCC 700970,0.8,760,3,765,Ureaplasma,Mycoplasmataceae,25.6
+Streptococcus pyogenes MGAS8232,1.8,1800,89,1811,Streptococcus,Streptococcaceae,38.5
+Enterococcus faecalis V583,3.2,3200,168,3196,Enterococcus,Enterococcaceae,37.1
+Lactobacillus reuteri DSM 20016,1.9,1800,97,1798,Lactobacillus,Lactobacillaceae,38.7
+Streptococcus mutans UA159,2.0,1900,121,1905,Streptococcus,Streptococcaceae,36.8
+Streptococcus agalactiae NEM316,2.2,2100,131,2115,Streptococcus,Streptococcaceae,35.5
+Actinomyces odontolyticus ATCC 17982,2.4,2300,136,2289,Actinomyces,Actinomycetaceae,65.0
+Actinomyces naeslundii MG1,2.4,2300,148,2297,Actinomyces,Actinomycetaceae,67.0
+Fusobacterium nucleatum ATCC 25586,2.2,2100,132,2104,Fusobacterium,Fusobacteriaceae,27.6
+Porphyromonas gingivalis W83,2.3,2200,123,2203,Porphyromonas,Porphyromonadaceae,48.4
+Treponema denticola ATCC 35405,2.8,2700,155,2702,Treponema,Spirochaetaceae,36.7
+Helicobacter mustelae 12198,1.5,1500,94,1506,Helicobacter,Helicobacteraceae,38.0
+Yersinia pseudotuberculosis IP 32953,4.6,4300,280,4305,Yersinia,Enterobacteriaceae,47.5
+Aeromonas hydrophila subsp. hydrophila ATCC 7966,4.7,4400,321,4403,Aeromonas,Aeromonadaceae,61.0
+Shigella flexneri 2a str. 301,4.6,4300,266,4307,Shigella,Enterobacteriaceae,50.5
+Enterobacter cloacae subsp. cloacae ATCC 13047,5.0,4700,300,4703,Enterobacter,Enterobacteriaceae,54.2
+Haemophilus influenzae Rd KW20,1.8,1700,94,1723,Haemophilus,Pasteurellaceae,38.0
+Haemophilus ducreyi 35000HP,1.8,1700,100,1732,Haemophilus,Haemophilaceae,40.0
+Bifidobacterium longum NCC2705,2.3,2100,143,2114,Bifidobacterium,Bifidobacteriaceae,60.3
+Helicobacter pylori J99,1.7,1600,112,1602,Helicobacter,Helicobacteraceae,39.0
+Candidatus Carsonella ruddii PV,0.2,160,2,161,Candidatus Carsonella,Endosymbiaceae,16.0
+Chlamydophila pneumoniae CWL029,1.2,1100,18,1116,Chlamydophila,Chlamydiaceae,41.0
+Mycoplasma genitalium G37,0.6,470,4,475,Mycoplasma,Mycoplasmataceae,31.0
+Thermoplasma acidophilum DSM 1728,1.6,1600,87,1634,Thermoplasma,Thermoplasmataceae,54.0
+Mycoplasma penetrans HF-2,0.8,770,5,765,Mycoplasma,Mycoplasmataceae,25.0
+Desulfovibrio desulfuricans G20,3.8,3600,227,3601,Desulfovibrio,Desulfovibrionaceae,57.0
+Leptospira interrogans serovar Lai,4.3,4000,253,4005,Leptospira,Leptospiraceae,35.0
+Leptospira biflexa serovar Patoc,3.8,3600,196,3603,Leptospira,Leptospiraceae,41.0
+Escherichia coli O157:H7 EDL933,5.5,5200,356,5179,Escherichia,Enterobacteriaceae,50.8
+Burkholderia cenocepacia AU 1054,8.1,7500,524,7473,Burkholderia,Burkholderiaceae,66.3
+Pseudomonas putida KT2440,6.2,5700,383,5697,Pseudomonas,Pseudomonadaceae,62.0
+Burkholderia mallei ATCC 23344,5.5,5100,351,5102,Burkholderia,Burkholderiaceae,68.0
+Bacteroides vulgatus ATCC 8482,6.0,5600,362,5601,Bacteroides,Bacteroidaceae,43.0
+Chlorobaculum tepidum TLS,2.2,2200,135,2186,Chlorobaculum,Chlorobiaceae,45.0
+Dehalococcoides ethenogenes 195,1.5,1400,91,1401,Dehalococcoides,Dehalococcoidaceae,47.0
+Sulfurovum sp. NBC37-1,2.8,2600,158,2587,Sulfurovum,Helicobacteraceae,45.0
+Candidatus Blochmannia pennsylvanicus BPEN,0.3,320,1,323,Candidatus Blochmannia,Enterobacteriaceae,25.0
+Candidatus Blochmannia floridanus,0.2,160,2,162,Candidatus Blochmannia,Enterobacteriaceae,25.0
+Candidatus Hamiltonella defensa 5AT,0.3,300,1,299,Candidatus Hamiltonella,Enterobacteriaceae,25.0
+Wolbachia endosymbiont of Drosophila melanogaster,1.5,1200,40,1215,Wolbachia,Anaplasmataceae,34.0
+Wolbachia endosymbiont of Culex quinquefasciatus Pel,1.5,1200,39,1216,Wolbachia,Anaplasmataceae,34.0
+Candidatus Sulcia muelleri GWSS,0.2,200,2,202,Candidatus Sulcia,Candidatus Sulcia,23.0
+Candidatus Hodgkinia cicadicola Dsem,0.2,160,2,162,Candidatus Hodgkinia,Candidatus Hodgkinia,23.0
+Mesorhizobium loti MAFF303099,7.1,6700,498,6701,Mesorhizobium,Phyllobacteriaceae,61.0
+Buchnera aphidicola str. APS (Acyrthosiphon pisum),0.6,580,3,583,Buchnera,Enterobacteriaceae,24.0
+Candidatus Kinetoplastibacterium galatii TCC219,0.3,400,1,401,Candidatus Kinetoplastibacterium,Enterobacteriaceae,25.0
+Candidatus Portiera aleyrodidarum BT-QVLC,0.2,160,2,162,Candidatus Portiera,Enterobacteriaceae,23.0
+Rickettsia bellii OSU 85-389,1.5,1500,28,1498,Rickettsia,Rickettsiaceae,29.0
+Nitrospira defluvii NOA,3.4,3300,210,3325,Nitrospira,Nitrospiraceae,53.0
+Nitrospira moscoviensis NSR2,3.8,3500,225,3531,Nitrospira,Nitrospiraceae,54.0
+Nitrospira marina Nb-295,4.0,3700,234,3715,Nitrospira,Nitrospiraceae,52.0
+Thermodesulfobium narugense DSM 14796,2.5,2400,153,2388,Thermodesulfobium,Thermodesulfobiaceae,61.0
+Thermodesulfovibrio yellowstonii DSM 11347,2.3,2200,141,2211,Thermodesulfovibrio,Thermodesulfobacteriaceae,53.0
+Desulfurobacterium thermolithotrophum DSM 11699,2.2,2100,137,2115,Desulfurobacterium,Desulfurobacteriaceae,40.0
+Candidatus Sulcia muelleri CARI,0.2,200,2,202,Candidatus Sulcia,Candidatus Sulcia,23.0
+Candidatus Carsonella ruddii HTPE,0.2,160,2,162,Candidatus Carsonella,Endosymbiaceae,16.0
+Candidatus Hodgkinia cicadicola DsemJ,0.2,160,2,162,Candidatus Hodgkinia,Candidatus Hodgkinia,23.0
+Nitrosococcus oceani ATCC 19707,2.7,2600,177,2610,Nitrosococcus,Nitrosomonadaceae,47.0
+Nitrosospira multiformis ATCC 25196,2.5,2400,166,2411,Nitrosospira,Nitrosomonadaceae,51.0
+Nitrosomonas eutropha C91,2.9,2700,186,2722,Nitrosomonas,Nitrosomonadaceae,50.0
+Candidatus Protochlamydia amoebophila UWE25,2.4,2200,109,2235,Candidatus Protochlamydia,Candidatus Protochlamydiaceae,29.0
+Candidatus Riesia pediculicola str. USDA,0.2,190,2,192,Candidatus Riesia,Candidatus Riesia,23.0
+Candidatus Blochmannia floridanus,0.2,160,2,162,Candidatus Blochmannia,Enterobacteriaceae,25.0
+Mycobacterium leprae TN,3.3,1600,49,1603,Mycobacterium,Mycobacteriaceae,57.8
+Mycobacterium smegmatis str. MC2 155,6.9,7000,471,7004,Mycobacterium,Mycobacteriaceae,67.7
+Mycobacterium avium 104,5.5,4900,341,4925,Mycobacterium,Mycobacteriaceae,69.3
+Mycobacterium ulcerans Agy99,5.8,5200,354,5206,Mycobacterium,Mycobacteriaceae,64.0
+Mycobacterium marinum M,6.6,6200,417,6230,Mycobacterium,Mycobacteriaceae,64.4
+Mycobacterium vanbaalenii PYR-1,6.5,6000,393,6036,Mycobacterium,Mycobacteriaceae,68.2
+Mycobacterium gilvum PYR-GCK,6.1,5700,375,5701,Mycobacterium,Mycobacteriaceae,67.0
+Mycobacterium smegmatis str. MC2 155,6.9,7000,471,7004,Mycobacterium,Mycobacteriaceae,67.7
+Mycobacterium bovis AF2122/97,4.3,4000,257,3997,Mycobacterium,Mycobacteriaceae,65.6
+Mycobacterium bovis BCG str. Pasteur 1173P2,4.4,4200,267,4188,Mycobacterium,Mycobacteriaceae,65.5
+Mycobacterium leprae Br4923,3.3,1600,50,1604,Mycobacterium,Mycobacteriaceae,57.8
+Mycobacterium tuberculosis CDC1551,4.4,4000,257,4004,Mycobacterium,Mycobacteriaceae,65.6
+Mycobacterium tuberculosis F11,4.4,4000,257,4004,Mycobacterium,Mycobacteriaceae,65.6
+Mycobacterium tuberculosis H37Ra,4.4,4000,257,4004,Mycobacterium,Mycobacteriaceae,65.6
+Mycobacterium tuberculosis KZN 1435,4.4,4000,257,4004,Mycobacterium,Mycobacteriaceae,65.6
+Mycobacterium tuberculosis T85,4.4,4000,257,4004,Mycobacterium,Mycobacteriaceae,65.6
+Mycobacterium tuberculosis T92,4.4,4000,257,4004,Mycobacterium,Mycobacteriaceae,65.6
+Mycobacterium ulcerans Agy99,5.8,5200,354,5206,Mycobacterium,Mycobacteriaceae,64.0
+Mycobacterium vanbaalenii PYR-1,6.5,6000,393,6036,Mycobacterium,Mycobacteriaceae,68.2
+Mycobacterium gilvum PYR-GCK,6.1,5700,375,5701,Mycobacterium,Mycobacteriaceae,67.0
+Mycobacterium smegmatis str. MC2 155,6.9,7000,471,7004,Mycobacterium,Mycobacteriaceae,67.7
+Mycobacterium bovis AF2122/97,4.3,4000,257,3997,Mycobacterium,Mycobacteriaceae,65.6
+Mycobacterium bovis BCG str. Pasteur 1173P2,4.4,4200,267,4188,Mycobacterium,Mycobacteriaceae,65.5
+Mycobacterium leprae Br4923,3.3,1600,50,1604,Mycobacterium,Mycobacteriaceae,57.8
+Mycobacterium tuberculosis CDC1551,4.4,4000,257,4004,Mycobacterium,Mycobacteriaceae,65.6
